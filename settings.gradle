@@ -1,0 +1,3 @@
+rootProject.name = 'exemplos'
+
+include 'kafka-standalone', 'kafka-spring'
